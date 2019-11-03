@@ -1,0 +1,70 @@
+header, article, footer{
+
+    padding: 5;
+}
+
+html{
+    background-color: black;
+}
+
+#container{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#body{
+    background-color: rgb(209, 199, 233);
+    
+}
+
+#navigation{
+    position: relative;
+    bottom: 47;
+    text-align: right;
+}
+
+#logo{
+    width: 15%;
+    padding-left: 420;
+    padding-top: 40;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: white;
+    
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: rgb(166, 102, 255);
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
+header{
+    text-align: left;
+    color: white;
+    background-color: rgb(55, 48, 65);
+    height: 80
+}
+
+article{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+footer{
+    text-align: center;
+    clear: both;
+}
